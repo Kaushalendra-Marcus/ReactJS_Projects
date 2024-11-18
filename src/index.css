@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20230626/pngtree-blue-and-green-shield-icon-3d-rendering-symbolizes-data-protection-safety-image_3682308.jpg');
+    background-size: cover;
+}
